@@ -7,8 +7,4 @@ categories: first
 
 Some Text
 
-* list item1
-
-  * list item2
-
-    ![image](/img/uploads/250x250.gif "picture")
+![](/img/uploads/250x250.gif)
