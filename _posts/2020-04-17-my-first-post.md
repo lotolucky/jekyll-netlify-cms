@@ -7,4 +7,10 @@ categories: first
 
 Some Text
 
+[123123](google.com)
+
 ![](/img/uploads/250x250.gif)
+
+[<img src="/img/uploads/250x250.gif">](http://google.com.au/)
+
+[![Some](/img/uploads/250x250.gif)](http://google.com.au/)
